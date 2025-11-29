@@ -1,0 +1,4 @@
+[
+  { "name": "Canal 1", "url": "acestream://11111", "quality": "HD" },
+  { "name": "Canal 2", "url": "acestream://22222", "quality": "FHD" }
+]
