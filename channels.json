@@ -9,6 +9,11 @@
          "nombre": "Canal 2",
          "acestream": "acestream://14b6cd8769cd485f2cffdca64be9698d9bfeac58",
          "categoria": "Deportes"
+       },
+                  {
+         "nombre": "Canal 2",
+         "acestream": "acestream://14b6cd8769cd485f2cffdca64be9698d9bfeac58",
+         "categoria": "Deportes"
        }
      ]
    }
